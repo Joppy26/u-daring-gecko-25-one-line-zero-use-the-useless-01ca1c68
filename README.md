@@ -10,7 +10,7 @@ bounty ($5 in prizes: $2/$2/$1).
 
 ## The line
 
-> I can talk to animals, but only goldfish, and all they ever want to talk about is the castle.
+> I can talk to animals, but only goldfish, and they only ever talk about the castle.
 
 The laugh lands in the last few words: a grand, classic superpower —
 talking to animals — collapses twice, first to the dullest possible
@@ -40,4 +40,4 @@ cat /tmp/useless-out/entry.txt
 ```
 
 Verified: two consecutive runs produce byte-identical `entry.txt` files
-(93 Unicode code points, valid UTF-8, not only whitespace).
+(83 Unicode code points, valid UTF-8, not only whitespace).

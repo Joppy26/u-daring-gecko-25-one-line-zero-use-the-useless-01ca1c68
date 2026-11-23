@@ -9,7 +9,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LINE =
-  "I can talk to animals, but only goldfish, and all they ever want to talk about is the castle.";
+  "I can talk to animals, but only goldfish, and they only ever talk about the castle.";
 
 function main(): void {
   const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
